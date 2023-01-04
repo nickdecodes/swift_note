@@ -1,2 +1,2 @@
-# swift_note
-swift_note
+# swift-note
+swift-note
